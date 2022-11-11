@@ -1,5 +1,5 @@
 CMakeFiles/Main.dir/test2.cpp.o: \
-  /Users/Shota-0128/Desktop/cpp_test2/test2.cpp \
+  /Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/cpp_test2/test2.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \

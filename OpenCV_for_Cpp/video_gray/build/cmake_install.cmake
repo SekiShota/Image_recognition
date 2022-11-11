@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Shota-0128/Desktop/OpenCV_for_Cpp/video_gray
+# Install script for directory: /Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/video_gray
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/Shota-0128/Desktop/OpenCV_for_Cpp/video_gray/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/video_gray/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

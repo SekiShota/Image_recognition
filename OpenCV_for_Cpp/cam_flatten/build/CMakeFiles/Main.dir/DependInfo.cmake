@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/Shota-0128/Desktop/OpenCV_for_Cpp/cam_flatten/cam_flatten.cpp" "CMakeFiles/Main.dir/cam_flatten.cpp.o" "gcc" "CMakeFiles/Main.dir/cam_flatten.cpp.o.d"
+  "/Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/cam_flatten/cam_flatten.cpp" "CMakeFiles/Main.dir/cam_flatten.cpp.o" "gcc" "CMakeFiles/Main.dir/cam_flatten.cpp.o.d"
   )
 
 # Targets to which this target links.

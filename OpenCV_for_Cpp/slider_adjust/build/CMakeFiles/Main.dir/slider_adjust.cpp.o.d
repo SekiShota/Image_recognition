@@ -1,5 +1,5 @@
 CMakeFiles/Main.dir/slider_adjust.cpp.o: \
-  /Users/Shota-0128/Desktop/OpenCV_for_Cpp/slider_adjust/slider_adjust.cpp \
+  /Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/slider_adjust/slider_adjust.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \
@@ -541,4 +541,11 @@ CMakeFiles/Main.dir/slider_adjust.cpp.o: \
   /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/stitching/detail/blenders.hpp \
   /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/video.hpp \
   /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/video/tracking.hpp \
-  /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/video/background_segm.hpp
+  /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/video/background_segm.hpp \
+  /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/xphoto.hpp \
+  /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/xphoto/inpainting.hpp \
+  /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/xphoto/white_balance.hpp \
+  /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/xphoto/dct_image_denoising.hpp \
+  /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/xphoto/bm3d_image_denoising.hpp \
+  /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/xphoto/oilpainting.hpp \
+  /usr/local/Cellar/opencv/4.6.0_1/include/opencv4/opencv2/xphoto/tonemap.hpp

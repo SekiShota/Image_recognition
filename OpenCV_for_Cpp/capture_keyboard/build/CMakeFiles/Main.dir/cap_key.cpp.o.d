@@ -1,5 +1,5 @@
 CMakeFiles/Main.dir/cap_key.cpp.o: \
-  /Users/Shota-0128/Desktop/OpenCV_for_Cpp/capture_keyboard/cap_key.cpp \
+  /Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/capture_keyboard/cap_key.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \

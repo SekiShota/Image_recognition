@@ -6,7 +6,7 @@ using namespace cv;
 
 int main(){
     // ビデオファイル読み込み
-    auto filename="Kyoko.mov";
+    auto filename="../examples/Kyoko.mov";
     VideoCapture cap(filename);
     if(!cap.isOpened()){
         cout << "cannot open a video file!";

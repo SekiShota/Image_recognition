@@ -6,8 +6,8 @@ using namespace cv;
 
 int main(){
     // ビデオファイル読み込み
-    auto input="test.mov";
-    auto output="output.mp4";
+    auto input="../examples/Kyoko.mov";
+    // auto output="output.mp4";
     VideoCapture cap(input);
     Mat src,tmp,gaussian, moving;
 
@@ -28,7 +28,7 @@ int main(){
     cout << "wait: " << wait << endl;
     cout << "--------------------------" << endl;
     
-    auto loop=ture;
+    auto loop=true;
     while(loop){
         int pos=rand()%frameCount;
         int window=rand()%30+10;
@@ -36,7 +36,7 @@ int main(){
         cout << "開始: " << pos << "," << "コマ数: " << window << "," << "方向: " << direction << endl;
 
         for(int f=0; f<window; f++){
-            cap.set(CAP_PROP_FRAMES, pos);
+            cap.set(CAP_PROP_POS_FRAMES, pos);
             cap >> src;
             imshow("shuffle", src);
             pos+=direction;

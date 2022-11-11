@@ -20,7 +20,6 @@ void drawGrid(Mat img, int count){
 int main(){
     string filename="output.mp4";
     auto input=0;
-    // auto input="../examples/short_movie2.mp4";
 
     Mat src, disp, prev;
     int mode=0;

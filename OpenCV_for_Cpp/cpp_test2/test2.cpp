@@ -8,7 +8,8 @@ void printMat(string, Mat &m);
 
 int main() {
     // Mat img1(480, 640, CV_8UC1);
-    Mat img1=imread("IMG_1884.jpg"), img2;
+    auto filename="../examples/test1.jpg";
+    Mat img1=imread(filename), img2;
     resize(img1, img2, Size(), 1.5, 1.5);
     imwrite("image_dst.jpg", img2,{IMWRITE_JPEG_QUALITY,100});
 

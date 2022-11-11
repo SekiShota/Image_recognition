@@ -5,16 +5,17 @@ using namespace std;
 using namespace cv;
 
 int main() {
+    auto filename="../examples/test1.jpg";
     // 読み込んだ画像をウィンドウに表示
-    // cv::Mat img = cv::imread("test1.jpg");
+    cv::Mat img = cv::imread(filename);
 
-    // cv::namedWindow("test", cv::WINDOW_AUTOSIZE);
-    // cv::imshow("test", img);
-    // cv::waitKey(0);
-    // cv::destroyWindow("test");
+    cv::namedWindow("test", cv::WINDOW_AUTOSIZE);
+    cv::imshow("test", img);
+    cv::waitKey(0);
+    cv::destroyWindow("test");
 
     // エッジ検出
-    Mat src = cv::imread("test.jpg"), dst;
+    Mat src = cv::imread(filename), dst;
     // 白黒でエッジ検出
     // Canny(src,dst,30,180,3);
 

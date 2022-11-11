@@ -1,5 +1,5 @@
 CMakeFiles/Main.dir/video_shuffling.cpp.o: \
-  /Users/Shota-0128/Desktop/OpenCV_for_Cpp/videoshuffling/video_shuffling.cpp \
+  /Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/videoshuffling/video_shuffling.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \

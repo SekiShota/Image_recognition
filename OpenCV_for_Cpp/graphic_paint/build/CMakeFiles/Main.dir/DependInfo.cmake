@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/Shota-0128/Desktop/OpenCV_for_Cpp/graphic_paint/graphic_figure.cpp" "CMakeFiles/Main.dir/graphic_figure.cpp.o" "gcc" "CMakeFiles/Main.dir/graphic_figure.cpp.o.d"
+  "/Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/graphic_paint/graphic_figure.cpp" "CMakeFiles/Main.dir/graphic_figure.cpp.o" "gcc" "CMakeFiles/Main.dir/graphic_figure.cpp.o.d"
   )
 
 # Targets to which this target links.

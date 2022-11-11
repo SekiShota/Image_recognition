@@ -6,7 +6,7 @@ using namespace cv;
 
 int main(){
     // ビデオファイル読み込み
-    auto cam_id=1;
+    auto cam_id=0;
     VideoCapture cap(cam_id);
     if(!cap.isOpened()){
         cout << "cannot find a camera!";

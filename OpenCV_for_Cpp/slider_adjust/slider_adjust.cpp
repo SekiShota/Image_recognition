@@ -1,5 +1,7 @@
 #include <iostream>
 #include <opencv2/opencv.hpp>
+#include <opencv2/highgui.hpp>
+#include <opencv2/xphoto.hpp>
 
 using namespace std;
 using namespace cv;
@@ -26,8 +28,8 @@ int main(){
         src=src*brightness;
         cvtColor(src, gray, COLOR_BGR2GRAY);
         threshold(gray, dst, val, 255, THRESH_BINARY_INV);
-        imshow("INPUT VIDEO", src);
-        imshow("BINARY VIDEO", dst);
+        imshow("Input movie", src);
+        imshow("binary movie", dst);
         if(waitKey(30)==27) break;
     }
 

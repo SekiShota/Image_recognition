@@ -6,7 +6,7 @@ using namespace cv;
 
 int main(){
     // ビデオファイル読み込み
-    auto input="Kyoko.mov";
+    auto input="../examples/Kyoko.mov";
     auto output="output.mp4";
     VideoCapture cap(input);
     if(!cap.isOpened()){
