@@ -5,7 +5,8 @@ using namespace std;
 using namespace cv;
 
 int main(){
-    VideoCapture cap("../examples/video.avi");
+    auto file="../examples/short_movie2.mov";
+    VideoCapture cap(file);
     auto width=(int)cap.get(CAP_PROP_FRAME_WIDTH);
     auto height=(int)cap.get(CAP_PROP_FRAME_HEIGHT);
     Size frame(width, height);

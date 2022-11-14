@@ -1,0 +1,3 @@
+/Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/6_2DFT/build/CMakeFiles/Main.dir
+/Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/6_2DFT/build/CMakeFiles/edit_cache.dir
+/Users/Shota-0128/Documents/Machine_Learning/OpenCV/OpenCV_for_Cpp/6_2DFT/build/CMakeFiles/rebuild_cache.dir
